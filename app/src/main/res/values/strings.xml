@@ -1,0 +1,66 @@
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">Popular Movies</string>
+
+    <string name="action_settings">Settings</string>
+    
+    <string name="action_favorite">Favorite</string>
+
+    <string name="movie_detail">MovieDetail</string>
+
+    <string name="trailers">Trailers</string>
+
+    <string name="reviews">Reviews</string>
+
+    <!-- Movie -->
+    <string name="review_key">/reviews</string>
+
+    <string name="video_key">/videos</string>
+
+    <!--Movie Detail -->
+    <string name="backdrop_content_description">backdrop image</string>
+
+
+    <!-- Trailer -->
+    <string name="youtube_trailer_url">http://www.youtube.com/watch?v=</string>
+
+    <!-- Favorites -->
+    <string name="message_added_to_favorites">Added to favorites</string>
+
+    <string name="message_removed_from_favorites">Removed from favorites</string>
+
+
+    <!-- Network -->
+
+    <string name="api_key" >api_key</string>
+
+    <string name="api_key_value">Please provide your own api key</string>
+
+    <string name="movie_discover_url">http://api.themoviedb.org/3/discover/movie?</string>
+
+    <string name="base_url">http://api.themoviedb.org/3/movie/</string>
+
+    <string name="movie_poster_url">http://image.tmdb.org/t/p/</string>
+
+    <string name="youtube_thumbnail_url">http://img.youtube.com/vi/<xliff:g id="trailer_key">%s</xliff:g>/0.jpg</string>
+
+    <string name="MOVIE_POSTER_SIZE">w185</string>
+
+    <string name="MOVIE_BACKDROP_SIZE">w780</string>
+
+    <!-- List Preference for sort order-->
+    <string name="pref_sort_by_label">Sort Order</string>
+
+    <string name="pref_sort_by_popularity_label">popular</string>
+
+    <string name="pref_sort_by_rating_label">rating</string>
+
+    <string name="pref_sort_by_favorites_label">favorite</string>
+
+    <string name="pref_sort_by_key" translatable="false">SortBy</string>
+
+    <string name="pref_sort_by_popularity_value" translatable="false">popularity.desc</string>
+
+    <string name="pref_sort_by_rating_value" translatable="false">vote_average.desc</string>
+
+    <string name="pref_sort_by_favorite_value" translatable="false">favorite</string>
+</resources>
