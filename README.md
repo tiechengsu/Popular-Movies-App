@@ -13,8 +13,8 @@ How to work with the source:
 You need to request your own API Key in order to work with themoviedb.org API
 
 Screenshots:
-![alt tag](https://github.com/tiechengsu/Popular-Movies-App/screenshot/ScreenMain.png "Screenshot for MainActivity")
-![alt tag](https://github.com/tiechengsu/Popular-Movies-App/screenshot/ScreenDetail.png "Screenshot for DetailActivity")
+![alt tag](https://github.com/tiechengsu/Popular-Movies-App/tree/master/screenshot/ScreenMain.png "Screenshot for MainActivity")
+![alt tag](https://github.com/tiechengsu/Popular-Movies-App/tree/master/screenshot/ScreenDetail.png "Screenshot for DetailActivity")
 
 
 
