@@ -15,8 +15,8 @@ You need to request your own API Key in order to work with themoviedb.org API
 
 Screenshots:
 ------------
-<img width="45%" src="screenshot/ScreenMain.png" />
-<img width="45%" src="screenshot/ScreenDetail.png" />
+<img width="40%" src="screenshot/ScreenMain.png" />
+<img width="40%" src="screenshot/ScreenDetail.png" />
 
 
 
